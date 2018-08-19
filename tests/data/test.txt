@@ -1,0 +1,15 @@
+# every story must have a start
+start:: You walk in.
+    You fall into a ditch::ditch
+    You rise to the sky::sky
+
+sky::You are in the sky.
+
+ditch::You are in a ditch.
+
+sign::A sign.
+
+this::Is this thing.
+
+# every story must have an end
+end::The end.
